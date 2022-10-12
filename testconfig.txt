@@ -5,6 +5,7 @@ model-color-format=0
 onnx-file=/home/nano/Project_Frs/detection_model1.onnx
 labelfile-path=/home/nano/Project_Frs/labels.txt
 0=FP32, 1=INT8, 2=FP16 mode
+model-engine-file=/home/nano/Project_Frs/detection_model1.onnx_b1_gpu0_fp16.engine
 network-mode=1
 num-detected-classes=20
 gie-unique-id=1
