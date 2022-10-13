@@ -11,4 +11,5 @@ num-detected-classes=20
 gie-unique-id=1
 is-classifier=0
 maintain-aspect-ratio=1
-output-blob-names=grid
+parse-bbox-func-name=
+custom-lib-path=
